@@ -1,0 +1,15 @@
+# Compiled binaries
+journal
+mkfs
+validator
+*.exe
+*.o
+
+# Generated disk images
+*.img
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
